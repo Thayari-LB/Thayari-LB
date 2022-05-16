@@ -1,4 +1,4 @@
-# Thayari-LB.github.io
+# Thayari-LB
 
 HOla
 
